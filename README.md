@@ -30,3 +30,5 @@ The models were developed towards deployment in a specific situation requiring i
 E-mail: sankarshansacharya@gmail.com
 
 Project Link: [https://github.com/ss-acharya/large-scale-classification](https://github.com/ss-acharya/large-scale-classification)
+
+Data Site: https://vaers.hhs.gov/data/datasets.html
